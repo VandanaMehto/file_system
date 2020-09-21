@@ -1,0 +1,30 @@
+[
+    {
+        "user_id": 1,
+        "user_name": "komal",
+        "user_rollNo": 12
+    },
+    {
+        "user_id": 2,
+        "user_name": "shanti",
+        "user_rollNo": 10
+    },
+    {
+        "name": "New User",
+        "age": 30,
+        "language": [
+            "PHP",
+            "Go",
+            "JavaScript"
+        ]
+    },
+    {
+        "user_name": "kabita",
+        "user_gmail": "kavita12@gmail.com",
+        "language": [
+            "nodejs",
+            "python",
+            "JavaScript"
+        ]
+    }
+]

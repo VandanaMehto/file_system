@@ -1,0 +1,16 @@
+[
+    {
+        "user_id": 1,
+        "user_name": "vandana",
+        "user_gmail": "vandana19@gmail.com",
+        "user_phoneNo": 7534567896
+    },
+
+    {
+        "user_id": 2,
+        "user_name": "poonam",
+        "user_gmail": "poonambaghSingh@gmail.com",
+        "user_phoneNo": 9971239845
+    }
+    
+]
